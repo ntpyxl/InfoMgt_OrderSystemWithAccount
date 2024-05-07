@@ -6,8 +6,8 @@ Info Management - Finals Exam
 2. Click on ADMIN
 3. Click 'New' to create a new database, name it "pixelsfoodshopaccounts"
 4. Create "useraccounts" table with 3 columns
-5. Add the following columns:
-   a. userID - **PRIMARY KEY**, CHECK THE **A_I** BOX
-   b. username - **VARCHAR(512)**
-   c. passowrd - **VARCHAR(512)**
+5. Add the following columns: <br />
+   a. userID - **PRIMARY KEY**, CHECK THE **A_I** BOX <br />
+   b. username - **VARCHAR(512)** <br />
+   c. passowrd - **VARCHAR(512)** <br />
 **After that, you may now open the website.**
