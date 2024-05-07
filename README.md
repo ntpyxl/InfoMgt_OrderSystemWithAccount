@@ -9,5 +9,6 @@ Info Management - Finals Exam
 5. Add the following columns: <br />
    a. userID - **PRIMARY KEY**, CHECK THE **A_I** BOX <br />
    b. username - **VARCHAR(512)** <br />
-   c. passowrd - **VARCHAR(512)** <br />
+   c. passowrd - **VARCHAR(512)** <br /> <br />
+
 **After that, you may now open the website.**
