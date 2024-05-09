@@ -1,9 +1,10 @@
 <?php 
 	session_start();
 
-	if(!isset($_SESSION['username'])) {
+	// returns to login page if not logged in
+	if(!isset($_SESSION['username'])){
 		header('Location: login.php');
-	} 
+	}
 ?>
 
 <html>

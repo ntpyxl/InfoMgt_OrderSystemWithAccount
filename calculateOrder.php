@@ -7,6 +7,7 @@
 		$cash = $_POST['cashTextField'];
 		
 		if(empty($quantity) || empty($cash)){
+			// error if input fields are empty
 			echo '<script> 
 			alert("The input fields are empty!");
 			window.location.href = "orderMenu.php";
